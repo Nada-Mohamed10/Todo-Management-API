@@ -4,7 +4,7 @@ A simple Todo Management API built with ASP.NET Core and Entity Framework Core.
 
 ## 📌 Requirements
 
-- .NET 8 or later
+- .NET 9
 - SQL Server
 - Postman or Swagger (for testing)
 - Optional: Simple frontend using Bootstrap
@@ -45,7 +45,7 @@ A simple Todo Management API built with ASP.NET Core and Entity Framework Core.
 2. Set your connection string in `appsettings.json`
 3. Run database migrations:
 
-### Run the app: dotnet run
+##### Run the app: dotnet run
 
-### Open Swagger in your browser: https://localhost:5001/swagger
+##### Open Swagger in your browser: https://localhost:5001/swagger
 
